@@ -34,6 +34,7 @@ journey
 ### 🛠️ Tech Stack
 
 this is my portfolio website-: http://127.0.0.1:5500/index.html
+
 I'm just getting started, but soon I'll be learning:
 - <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="24"/> Python
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24"/> Java
