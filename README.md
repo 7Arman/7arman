@@ -19,7 +19,7 @@
 
 ```mermaid
 journey
-    title My Learning Path
+
     section Start
       Created GitHub Profile: 2025-06-13: 5
       Exploring Programming: 2025-06-13: 4
