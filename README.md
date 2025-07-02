@@ -65,7 +65,3 @@ I'm just getting started, but soon I'll be learning:
   
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7Arman/7Arman/main/assets/wave.svg" width="100%" alt="Wave"/>
-</p>
