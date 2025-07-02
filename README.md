@@ -34,6 +34,7 @@ journey
 ### 🛠️ Tech Stack
 
 this is my portfolio website-: https://7arman.github.io/portfolio-site/
+My CV-: [cv (2).pdf](https://github.com/user-attachments/files/21020119/cv.2.pdf)
 
 I'm just getting started, but soon I'll be learning:
 - <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="24"/> Python
